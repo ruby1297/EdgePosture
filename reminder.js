@@ -1,6 +1,6 @@
 // for testing, set to 10 seconds (10000 ms)
 // if use real 60 minutes, set to 3600000 ms
-const REMINDER_TOTAL_TIME = 10000; 
+const REMINDER_TOTAL_TIME = 3600000; 
 let countdownInterval;
 
 function startTimer() {
